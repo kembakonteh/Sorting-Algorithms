@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="HW5" targetName="HW5" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eff2f5c6-5326-4795-a098-074d49c9062c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HW3/.idea/HW3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3/HW5/.idea/HW5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../301.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../360Etra Credit2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../360Extra Credit3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment#4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CASE-Course Instructions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cplusplus342/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cplusplus342/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Ass1/ass1/Library.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Cplusplus342/Ass1/ass1/Library.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Ass1/ass1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Cplusplus342/Ass1/ass1/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Ass1/ass1/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Ass1/ass1/selfassessment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment1" beforeDir="false" afterPath="$PROJECT_DIR$/../Cplusplus342/Assignment1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/TimeSpan.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Cplusplus342/Assignment2/TimeSpan.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/Assignment2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/Assignment2.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/TimeSpan.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/assignment2.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment2/selfassessment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/Assignment6" beforeDir="false" afterPath="$PROJECT_DIR$/../Cplusplus342/Assignment6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cplusplus342/HW5" beforeDir="false" afterPath="$PROJECT_DIR$/../Cplusplus342/HW5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Explanation of design.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Extra Credit.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Extra Credit360.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FLYER.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../High Level pseudo-code.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/.idea/MapInC++.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/MapInC__.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/MapInC__.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/MapInC__.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/MapInC__.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/MapInC__.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/MapInC__.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/MapInC__.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/MapInC__.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/MapInC__.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/MapInC__.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/MapInC__" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/MapInC__.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MapInC++/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-11-25 at 1.34.23 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-11-27 at 11.53.28 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-03 at 12.50.26 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-12 at 2.01.39 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-12 at 2.02.54 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-12 at 2.03.50 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-12 at 2.05.10 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-12 at 2.10.57 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-12 at 2.24.03 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-12 at 2.47.37 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-13 at 10.02.03 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-13 at 10.04.10 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-13 at 10.06.20 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-13 at 11.02.31 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-13 at 3.21.46 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-13 at 3.22.13 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-13 at 3.23.11 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-13 at 9.26.09 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-13 at 9.26.24 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-13 at 9.31.10 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-13 at 9.45.16 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-14 at 2.56.34 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-14 at 2.57.19 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-14 at 2.57.37 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-14 at 2.58.00 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-14 at 2.58.18 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-14 at 2.58.36 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-14 at 2.59.27 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-14 at 5.11.23 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-14 at 5.12.05 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-14 at 5.26.37 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-14 at 5.28.31 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-14 at 6.32.27 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-14 at 6.36.50 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-15 at 1.35.02 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-15 at 1.36.53 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-15 at 2.48.09 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-22 at 11.14.43 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-22 at 11.15.09 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-23 at 2.45.37 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-23 at 7.16.13 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-23 at 7.20.18 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-23 at 7.34.42 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-23 at 8.29.29 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-23 at 8.40.01 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-29 at 12.12.58 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-29 at 12.13.11 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2019-12-29 at 12.28.53 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment1/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1To1ptefeOkiEaNA0zgZBHTXKGA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="HW5" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="-d dataMed.txt" PASS_PARENT_ENVS_2="true" PROJECT_NAME="HW5" TARGET_NAME="HW5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="HW5" RUN_TARGET_NAME="HW5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eff2f5c6-5326-4795-a098-074d49c9062c" name="Default Changelist" comment="" />
+      <created>1574111820077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574111820077</updated>
+      <workItem from="1574111823519" duration="1943000" />
+      <workItem from="1574135626694" duration="387000" />
+      <workItem from="1574305103477" duration="1287000" />
+      <workItem from="1574385188411" duration="1037000" />
+      <workItem from="1574391246640" duration="10034000" />
+      <workItem from="1574528411494" duration="471000" />
+      <workItem from="1574630154118" duration="411000" />
+      <workItem from="1574630925020" duration="5434000" />
+      <workItem from="1574650755645" duration="4008000" />
+      <workItem from="1574730882644" duration="3880000" />
+      <workItem from="1574736254891" duration="2051000" />
+      <workItem from="1574757938261" duration="646000" />
+      <workItem from="1574759321881" duration="640000" />
+      <workItem from="1574812793655" duration="698000" />
+      <workItem from="1574821142095" duration="24000" />
+      <workItem from="1575072708733" duration="21000" />
+      <workItem from="1575072777316" duration="20425000" />
+      <workItem from="1577955266379" duration="118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575080554818">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1575080554818" />
+    <state width="1358" height="293" key="GridCell.Tab.0.bottom" timestamp="1575239411773">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="293" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1575239411773" />
+    <state width="1358" height="293" key="GridCell.Tab.0.center" timestamp="1575239411772">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="293" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1575239411772" />
+    <state width="1358" height="293" key="GridCell.Tab.0.left" timestamp="1575239411772">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="293" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1575239411772" />
+    <state width="1358" height="293" key="GridCell.Tab.0.right" timestamp="1575239411772">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="293" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1575239411772" />
+    <state width="1358" height="293" key="GridCell.Tab.1.bottom" timestamp="1575239411774">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="293" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1575239411774" />
+    <state width="1358" height="293" key="GridCell.Tab.1.center" timestamp="1575239411773">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="293" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1575239411773" />
+    <state width="1358" height="293" key="GridCell.Tab.1.left" timestamp="1575239411773">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="293" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1575239411773" />
+    <state width="1358" height="293" key="GridCell.Tab.1.right" timestamp="1575239411774">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1358" height="293" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1575239411774" />
+    <state x="399" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1575072777621">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="399" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1575072777621" />
+  </component>
+</project>
